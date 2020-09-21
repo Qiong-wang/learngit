@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "Simple-store",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "titleNView": false,
+  "bounce": "none",
+  "pullToRefresh": {
+    "style": "circle",
+    "color": "#FD575C",
+    "offset": "60px"
+  },
+  "usingComponents": {
+    "load-more": "/components/uni-pro/load-more"
+  }
+}
